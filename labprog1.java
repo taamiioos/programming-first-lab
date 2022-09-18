@@ -1,4 +1,4 @@
-public class labprog1 {
+public class Labprog1 {
     public static void main(String[] args) {
         long[] d = new long[10];
         for (int i = 0, j = 5; i < 10; i++, j += 2) {
